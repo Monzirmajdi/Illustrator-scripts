@@ -102,7 +102,7 @@ function simulateTrimView() {
                         if (!item.locked && !item.hidden) {
                             itemsToMask.push(item);
                         }
-                    }ل
+                    }
                 }
             }
 
