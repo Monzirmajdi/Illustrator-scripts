@@ -1,5 +1,5 @@
 /*******************************************************************************
-*
+*             All rights reserved MonzirGraphix 2025©
 * A script to simulate Trim View in older versions of Illustrator
 * by creating or removing a clipping mask on the active artboard.
 *
